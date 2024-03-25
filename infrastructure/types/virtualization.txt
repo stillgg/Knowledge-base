@@ -1,0 +1,7 @@
+Virtualizing
+When you run in one machine several instances servers, machines
+
+Advantages:
+- performance
+- scaleble
+- opensource solutions (virtual box, QEMU)

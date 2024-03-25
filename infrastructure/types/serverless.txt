@@ -1,0 +1,11 @@
+serverless
+It's a cloud computing model. You don't need to worry about servers, storage, network.
+You only pay for machine resources (firebase)
+
+Advantages:
+- scaleble
+- fast
+- time to market is the highest
+
+Disadvantages:
+- it's too difficult to migrate to another solution

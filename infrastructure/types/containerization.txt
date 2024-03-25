@@ -1,0 +1,3 @@
+containerization
+When you place your code in container enviroment (Docker, k8s) with some version
+of operation system and it can runs on different platforms without troubles

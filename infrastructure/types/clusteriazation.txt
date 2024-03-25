@@ -1,0 +1,5 @@
+clustering
+When you run one system on several machines
+
+Advantages:
+- reliablity

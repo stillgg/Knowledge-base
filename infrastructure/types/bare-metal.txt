@@ -1,0 +1,10 @@
+Bare machine (bare metal)
+When your execution instractions run directly on microcontroller. It's using for writing 
+(boot operation system, memory manager, schedulers and so on)
+Advantages:
+- performance
+
+Disadvantages:
+- you need to reinvent some things to run your code, where in operation system it's in the box
+- difficult to port to another machine
+- problems with testing

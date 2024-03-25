@@ -1,0 +1,7 @@
+shared hosting(common web-server)
+When on one server places some website pages in internet
+
+Advantages:
+- the most common and the cheapest way to put your appllication in internet
+Disadvantages:
+- this solution isn't scaleble and flexible
