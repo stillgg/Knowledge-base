@@ -1,0 +1,3 @@
+controller
+Who executes business logic, it's something beetween button sale and
+backend logic

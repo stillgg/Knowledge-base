@@ -1,0 +1,2 @@
+It's about dependencies of some modules if coupling isn't low it leads to
+difficulty code because one module knows about another too much

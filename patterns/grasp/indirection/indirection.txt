@@ -1,0 +1,4 @@
+indirection (gof mediator, mvc controller)
+When we was created third class and this class know about other classes
+but other classes don't now about each other
+it provides us low coupling

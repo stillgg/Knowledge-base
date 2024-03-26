@@ -1,0 +1,2 @@
+If we used all another GRASP pattern's we reached this pattern because
+we're protected from a cascading changes when we add something

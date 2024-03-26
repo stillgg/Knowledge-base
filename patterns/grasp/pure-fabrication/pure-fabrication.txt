@@ -1,0 +1,4 @@
+pure fabrication
+Some abstraction not in problem domain. This helps to reach low coupling,
+flexebility
+(Event Emitter, Promise, Logger, Error)
