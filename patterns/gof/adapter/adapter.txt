@@ -1,0 +1,1 @@
+Adapter - it's abstraction which provides interface to communicate with incompatible object
