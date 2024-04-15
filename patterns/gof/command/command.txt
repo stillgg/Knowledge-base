@@ -1,0 +1,1 @@
+Command - describe operation as a class and this class has one execution method
